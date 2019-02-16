@@ -73,7 +73,7 @@ typings/
 .serverless
 
 # Dist directory
-dist/
+#dist/
 
 # VS code
 .vscode/
